@@ -2,6 +2,10 @@
 ![GitHub repo stars](https://img.shields.io/github/stars/Trojan3877/AI-Societal-Impacts-and-Universal-Basic-Income-Paper?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/Trojan3877/AI-Societal-Impacts-and-Universal-Basic-Income-Paper?style=social)
 ![Build passing](https://img.shields.io/github/actions/workflow/status/Trojan3877/AI-Societal-Impacts-and-Universal-Basic-Income-Paper/ci.yml?branch=main)
+
+![Fight On AI Visual](assets/fight_on_ai.png)
+
+
 # 👋 Meet Corey Leath
 
 **Aspiring AI/ML Engineer | Tech Visionary | Faith-Driven Creator**
