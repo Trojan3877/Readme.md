@@ -9,6 +9,29 @@ leetcode-solutions
 ## 📚 Algorithm & Data-Structures Prep
 I maintain a dedicated [leetcode-solutions](https://github.com/Trojan3877/leetcode-solutions) repo  
 with 35+ problems solved in **Python, Java, and C++**, complete with unit tests and CI badge.
+# 🧮 LeetCode & Data-Structures Prep
+
+![Build](https://github.com/Trojan3877/leetcode-solutions/actions/workflows/ci.yml/badge.svg)
+![Problems Solved](https://img.shields.io/badge/Problems-35-blue)
+![Languages](https://img.shields.io/badge/Python%20%7C%20C++%20%7C%20Java-green)
+
+A collection of my solutions to popular LeetCode / HackerRank / CodeSignal problems,
+organized by language and topic, with clean code and unit tests.
+
+| Category | Problems |
+|----------|----------|
+| Arrays / Hashing | Two Sum, 3Sum, Contains Duplicate |
+| Linked Lists | Reverse List, Merge Two Lists |
+| Trees / Graphs | BFS, DFS, Level-Order Traversal |
+| DP | Coin Change, House Robber |
+| Misc | String Compression, LRU Cache |
+
+> **Goal:** Maintain algorithmic fluency for Big-Tech interviews (FAANG-style).
+
+## ✨ Highlights
+- **Clean, commented code** in Python, Java, and C++.
+- **Unit tests** for Python solutions (`pytest`).
+- **CI badge** proves all solutions compile/run on every push.
 
 ![Build](https://github.com/Trojan3877/leetcode-solutions/actions/workflows/ci.yml/badge.svg)
 
