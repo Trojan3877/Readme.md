@@ -1,6 +1,32 @@
-![MIT License](https://img.shields.io/badge/license-MIT-green.svg)
-![GitHub repo stars](https://img.shields.io/github/stars/Trojan3877/AI-Societal-Impacts-and-Universal-Basic-Income-Paper?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Trojan3877/AI-Societal-Impacts-and-Universal-Basic-Income-Paper?style=social)
+<!-- ───────────────────────────────────────── Profile Badges ───────────────────────────────────────── -->
+![Profile Views](https://komarev.com/ghpvc/?username=Trojan3877&style=flat-square)
+![Followers](https://img.shields.io/github/followers/Trojan3877?style=flat-square&logo=github)
+![Stars](https://img.shields.io/github/stars/Trojan3877?style=flat-square)
+
+<!-- ───────────────────────────────────────── Languages ────────────────────────────────────────────── -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+<!-- ───────────────────────────────────────── Toolchain / DevOps ───────────────────────────────────── -->
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-56B9FF?style=flat-square&logo=snowflake&logoColor=white)
+
+<!-- ───────────────────────────────────────── Code Quality / CI ────────────────────────────────────── -->
+![CI](https://github.com/Trojan3877/Agentic-AI-Assistant/actions/workflows/ci.yml/badge.svg?style=flat-square)
+![Coverage](https://codecov.io/gh/Trojan3877/Agentic-AI-Assistant/branch/main/graph/badge.svg?style=flat-square)
+![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Trojan3877/Agentic-AI-Assistant/badge?style=flat-square)
+
+<!-- ───────────────────────────────────────── GitHub Stats (optional) ─────────────────────────────── -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trojan3877&layout=compact&theme=default&hide_border=true)
+
 ![Build passing](https://img.shields.io/github/actions/workflow/status/Trojan3877/AI-Societal-Impacts-and-Universal-Basic-Income-Paper/ci.yml?branch=main)
 
 ![Fight On AI Visual](assets/fight_on_ai.png)
