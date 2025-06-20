@@ -2,7 +2,6 @@
 ![GitHub repo stars](https://img.shields.io/github/stars/Trojan3877/AI-Societal-Impacts-and-Universal-Basic-Income-Paper?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/Trojan3877/AI-Societal-Impacts-and-Universal-Basic-Income-Paper?style=social)
 ![Build passing](https://img.shields.io/github/actions/workflow/status/Trojan3877/AI-Societal-Impacts-and-Universal-Basic-Income-Paper/ci.yml?branch=main)
-
 # 👋 Meet Corey Leath
 
 **Aspiring AI/ML Engineer | Tech Visionary | Faith-Driven Creator**
@@ -71,6 +70,16 @@ I'm open to:
 `Python` • `C++` • `Java` • `PyTorch` • `TensorFlow` • `FastAPI` • `Docker` • `Kubernetes` • `Snowflake` • `Ansible` • `Terraform` • `CI/CD` • `Jupyter Notebooks` • `GitHub Actions` • `Scikit-Learn` • `AWS SageMaker`
 
 ---
+
+### 📊 GitHub Stats (Auto-Updated)
+
+![Corey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trojan3877&show_icons=true&theme=react)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Trojan3877&layout=compact&theme=react)
+
+---
+
+⭐ Thank you for stopping by. Let’s build the future—ethically, boldly, and together.
+
 
 ### 📊 GitHub Stats (Auto-Updated)
 
