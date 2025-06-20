@@ -5,6 +5,12 @@
 
 ![Fight On AI Visual](assets/fight_on_ai.png)
 
+leetcode-solutions 
+## 📚 Algorithm & Data-Structures Prep
+I maintain a dedicated [leetcode-solutions](https://github.com/Trojan3877/leetcode-solutions) repo  
+with 35+ problems solved in **Python, Java, and C++**, complete with unit tests and CI badge.
+
+![Build](https://github.com/Trojan3877/leetcode-solutions/actions/workflows/ci.yml/badge.svg)
 
 # 👋 Meet Corey Leath
 
