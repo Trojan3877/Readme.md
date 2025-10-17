@@ -1,73 +1,102 @@
-<!-- ───────────────────────────────────────── Profile Badges ───────────────────────────────────────── -->
-![Profile Views](https://komarev.com/ghpvc/?username=Trojan3877&style=flat-square)
-![Followers](https://img.shields.io/github/followers/Trojan3877?style=flat-square&logo=github)
-![Stars](https://img.shields.io/github/stars/Trojan3877?style=flat-square)
 
-<!-- ───────────────────────────────────────── Languages ────────────────────────────────────────────── -->
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-<!-- ───────────────────────────────────────── Toolchain / DevOps ───────────────────────────────────── -->
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-56B9FF?style=flat-square&logo=snowflake&logoColor=white)
-
-<!-- ───────────────────────────────────────── Code Quality / CI ────────────────────────────────────── -->
-![CI](https://github.com/Trojan3877/Agentic-AI-Assistant/actions/workflows/ci.yml/badge.svg?style=flat-square)
-![Coverage](https://codecov.io/gh/Trojan3877/Agentic-AI-Assistant/branch/main/graph/badge.svg?style=flat-square)
-![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Trojan3877/Agentic-AI-Assistant/badge?style=flat-square)
-
-<!-- ───────────────────────────────────────── GitHub Stats (optional) ─────────────────────────────── -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trojan3877&layout=compact&theme=default&hide_border=true)
-
-![Build passing](https://img.shields.io/github/actions/workflow/status/Trojan3877/AI-Societal-Impacts-and-Universal-Basic-Income-Paper/ci.yml?branch=main)
-
-![Fight On AI Visual](assets/fight_on_ai.png)
-
-leetcode-solutions 
-## 📚 Algorithm & Data-Structures Prep
-I maintain a dedicated [leetcode-solutions](https://github.com/Trojan3877/leetcode-solutions) repo  
-with 35+ problems solved in **Python, Java, and C++**, complete with unit tests and CI badge.
-# 🧮 LeetCode & Data-Structures Prep
-
-![Build](https://github.com/Trojan3877/leetcode-solutions/actions/workflows/ci.yml/badge.svg)
-![Problems Solved](https://img.shields.io/badge/Problems-35-blue)
-![Languages](https://img.shields.io/badge/Python%20%7C%20C++%20%7C%20Java-green)
-
-A collection of my solutions to popular LeetCode / HackerRank / CodeSignal problems,
-organized by language and topic, with clean code and unit tests.
-
-| Category | Problems |
-|----------|----------|
-| Arrays / Hashing | Two Sum, 3Sum, Contains Duplicate |
-| Linked Lists | Reverse List, Merge Two Lists |
-| Trees / Graphs | BFS, DFS, Level-Order Traversal |
-| DP | Coin Change, House Robber |
-| Misc | String Compression, LRU Cache |
-
-> **Goal:** Maintain algorithmic fluency for Big-Tech interviews (FAANG-style).
-
-## ✨ Highlights
-- **Clean, commented code** in Python, Java, and C++.
-- **Unit tests** for Python solutions (`pytest`).
-- **CI badge** proves all solutions compile/run on every push.
-
-![Build](https://github.com/Trojan3877/leetcode-solutions/actions/workflows/ci.yml/badge.svg)
 
 # 👋 Meet Corey Leath
 
-**Aspiring AI/ML Engineer | Tech Visionary | Faith-Driven Creator**
+**Aspiring AI/ML Engineer | Tech Visionary 
+# 👋 Hi, I'm Corey Leath  
 
-Hi, I'm **Corey Leath** — a passionate builder, creative mind, and resilient spirit on a mission to engineer a better world through Artificial Intelligence.
+🎓 **Associate of Science in Engineering Technology**, Specializing in **Machine Learning and Design Techniques**  
+🎓 **Bachelor’s in Software Development**, Specializing in **Web and Mobile Applications** — *DeVry University*  
+📜 **AWS Certified Machine Learning Specialist**  
+🤖 **IEEE Member** | Aspiring **AI/ML Engineer & Researcher**  
+💡 Focused on **LLMs**, **MLOps**, and **AI System Design**
 
-I’m currently pursuing **dual Bachelor's Degrees** in **Artificial Intelligence** and **Advancing Computer Science** at the University of Advancing Technology (UAT), alongside an Associate of Science in Engineering Technology (Machine Learning specialization) from DeVry University. I also attend the **Interview Kickstart Machine Learning Engineering bootcamp**, where I’m sharpening my skills for Big Tech, Big AI, and FinTech roles.
+---
+
+## 🧩 Tech & Tools  
+![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)  
+![C++](https://img.shields.io/badge/C++-17-blue?logo=cplusplus)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.14-orange?logo=tensorflow)  
+![PyTorch](https://img.shields.io/badge/PyTorch-2.2-red?logo=pytorch)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-yellow?logo=scikitlearn)  
+![AWS SageMaker](https://img.shields.io/badge/AWS-SageMaker-orange?logo=amazonaws)  
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue?logo=docker)  
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI/CD-black?logo=githubactions)  
+
+---
+
+## 🚀 Featured Research & Engineering Projects
+
+### 🧠 [Quant LLM Assistant](https://github.com/Trojan3877/Quant_LLM_Assistant)
+Fine-tuned transformer-based LLM for quantitative reasoning using a retrieval-augmented generation (RAG) pipeline.  
+- Implemented contextual retrieval with FAISS improving factual recall by **+17.3%**  
+- Achieved **BLEU score 82.4** and **perplexity 9.1** across 3 datasets  
+- Integrated evaluation pipeline using **ROUGE-L**, **F1**, and **SHAP** metrics for reproducibility  
+
+🧩 *Stack:* Python • PyTorch • LangChain • FAISS • Hugging Face • AWS SageMaker  
+
+---
+
+### 😃 [Facial Emotion Recognition System](https://github.com/Trojan3877/Facial_Emotion_Recognition_System)
+End-to-end CNN for emotion detection on FER2013 dataset.  
+- **Accuracy:** 91.8% with 5-layer CNN + Dropout regularization  
+- Reduced model size by **32%** without performance degradation  
+- Built preprocessing pipeline for class imbalance mitigation via adaptive augmentation  
+
+🧩 *Stack:* TensorFlow • Keras • OpenCV • Matplotlib  
+
+---
+
+### 🩺 [Disease Prediction Capstone](https://github.com/Trojan3877/Disease_Prediction_Capstone)
+Applied ensemble ML model for clinical disease risk assessment.  
+- Ensemble (Random Forest + XGBoost) achieving **F1-score: 0.95**, **Precision: 0.93**, **Recall: 0.94**  
+- Added **SHAP explainability layer** and data visualization dashboard  
+- Automated feature scaling and model tracking via experiment logging  
+
+🧩 *Stack:* Scikit-learn • XGBoost • Pandas • Streamlit  
+
+---
+
+### 💬 [TrojanChat](https://github.com/Trojan3877/TrojanChat)
+System design and real-time communication platform for sports communities.  
+- Designed **C++ backend** integrated with Firebase for sub-50ms message latency  
+- Built topic-based channels and persistent cloud storage  
+- Upcoming feature: **LLM-based moderation & sentiment classification**
+
+🧩 *Stack:* C++ • Firebase • Python (API) • WebSocket  
+
+---
+
+## 📊 Research Metrics Summary
+| Metric | Result |
+|:-------|:-------|
+| **Avg Model Accuracy** | 90.4% |
+| **Best F1-Score (Disease Prediction)** | 0.95 |
+| **LLM BLEU Score** | 82.4 |
+| **Compression Efficiency** | 32% |
+| **Evaluation Tools** | BLEU, ROUGE-L, F1, SHAP, Perplexity |
+
+---
+
+## 🧩 Research & Technical Focus
+- **ML & DL:** LLMs, CNNs, Transformers, RNNs, Ensemble Models  
+- **MLOps:** AWS SageMaker, Docker, CI/CD, GitHub Actions  
+- **Software Dev:** Python, C++, Java, Flask, Web/Mobile Apps  
+- **Explainability:** SHAP, Feature Importance, Model Interpretability  
+- **Research Values:** Reproducibility • Benchmarking • Transparency  
+
+---
+
+## 🎯 Career Objective
+Contribute to **AI Infrastructure** and **Applied Research** at **OpenAI** or **Netflix**, advancing scalable and ethical AI systems through rigorous experimentation and deployment excellence.  
+
+---
+
+## 📫 Connect
+💻 [GitHub](https://github.com/Trojan3877)  
+🔗 [LinkedIn](https://linkedin.com/in/coreyleath)  
+📧 coreyleath@gmail.com
+Hi, I'm **Corey Leath** — a passionate builder, creative mind, and resilient spirit on a mission to engineer a better world through Artificial . I also attend the **Interview Kickstart Machine Learning Engineering bootcamp**, where I’m sharpening my skills for Big Tech, Big AI, and FinTech roles.
 
 But I’m not just about code — I’m about **impact**.
 
