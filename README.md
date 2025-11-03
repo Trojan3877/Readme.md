@@ -1,17 +1,44 @@
+# 👋 Hi, I'm Corey Leath (Trojan3877)
 
+🎯 **Full-Stack Developer | AI/ML Engineer | IEEE Member**
 
-# 👋 Meet Corey Leath
-
-**Aspiring AI/ML Engineer | Tech Visionary 
-# 👋 Hi, I'm Corey Leath  
-
-🎓 **Associate of Science in Engineering Technology**, Specializing in **Machine Learning and Design Techniques**  
-🎓 **Bachelor’s in Software Development**, Specializing in **Web and Mobile Applications** — *DeVry University*  
-📜 **AWS Certified Machine Learning Specialist**  
-🤖 **IEEE Member** | Aspiring **AI/ML Engineer & Researcher**  
-💡 Focused on **LLMs**, **MLOps**, and **AI System Design**
+I'm an AI Engineer and Full-Stack Developer specializing in building and deploying intelligent systems that integrate Machine Learning, Web/Mobile Apps, and Scalable Cloud Architectures.  
+Currently pursuing advanced degrees in **Software Development**, **AI Engineering**, and an eventual **Ph.D. in Artificial Intelligence**.
 
 ---
+
+### 🚀 Featured Projects
+
+| Project | Description | Technologies |
+|----------|--------------|---------------|
+| 🧠 [AI Vehicle Safety Classifier](https://github.com/Trojan3877/AI-Vehicle-Safety-Classifier) | Deep learning model to classify driving conditions and improve vehicle safety metrics. | Python, PyTorch, TensorFlow, OpenCV, FastAPI |
+| 💬 [TrojanChat](https://github.com/Trojan3877/TrojanChat) | Real-time AI-powered chat system for USC football fans with Firebase integration. | C++, Python, Firebase, React, FastAPI |
+| ⚙️ [ML-Docker-Orchestrator](https://github.com/Trojan3877/ML-Docker-Orchestrator) | Automates training, validation, and deployment of ML models using Docker and CI/CD. | Docker, MLflow, Airflow, Jenkins |
+| 🏥 [AI ER Triage System](https://github.com/Trojan3877/AI-ER-Triage-System) | Optimizes emergency room triage decisions using AI + automation pipelines. | Python, Java, Snowflake, Ansible, Kubernetes |
+| 📘 [AI & UBI Research Paper](https://github.com/Trojan3877/AI-UBI-Research) | Paper exploring the societal impact of automation and potential Universal Basic Income solutions. | Markdown, LaTeX, Research Citations |
+
+---
+
+### ⚙️ Tech Stack
+
+**Languages:** Python, C++, Java, JavaScript, SQL  
+**AI/ML:** TensorFlow, PyTorch, scikit-learn, OpenCV, MLflow  
+**Frameworks:** FastAPI, Django, React, Flask  
+**MLOps & Cloud:** Docker, Kubernetes, AWS, Airflow, GitHub Actions  
+**Tools:** Snowflake, Firebase, CI/CD Pipelines, Ansible  
+
+---
+
+### 🧩 Currently Building
+- 🧠 *AI Systems that learn and adapt across web, mobile, and cloud environments*  
+- 🔍 *Research on AI ethics and Universal Basic Income*  
+- 🏗️ *Next-gen scalable AI pipelines using Docker + Airflow + MLflow*  
+
+---
+
+### 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/corey-leath)
+[![GitHub](https://img.shields.io/badge/GitHub-Trojan3877-black)](https://github.com/Trojan3877)
 
 ## 🧩 Tech & Tools  
 ![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)  
