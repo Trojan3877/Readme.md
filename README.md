@@ -49,6 +49,13 @@ Currently pursuing advanced degrees in **Software Development**, **AI Engineerin
 ![AWS SageMaker](https://img.shields.io/badge/AWS-SageMaker-orange?logo=amazonaws)  
 ![Docker](https://img.shields.io/badge/Docker-Containerization-blue?logo=docker)  
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI/CD-black?logo=githubactions)  
+<!-- ML & Orchestration Stack Badges -->
+
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![MetrixFlow](https://img.shields.io/badge/MetrixFlow-5A3FD2?style=for-the-badge&logo=graph&logoColor=white)
 
 ---
 
