@@ -1,275 +1,145 @@
-# 👋 Hi, I'm Corey Leath (Trojan3877)
-
-🎯 **Full-Stack Developer | AI/ML Engineer | IEEE Member**
-
-I'm an AI Engineer and Full-Stack Developer specializing in building and deploying intelligent systems that integrate Machine Learning, Web/Mobile Apps, and Scalable Cloud Architectures.  
-Currently pursuing advanced degrees in **Software Development**, **AI Engineering**, and an eventual **Ph.D. in Artificial Intelligence**.
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Technologies |
-|----------|--------------|---------------|
-| 🧠 [AI Vehicle Safety Classifier](https://github.com/Trojan3877/AI-Vehicle-Safety-Classifier) | Deep learning model to classify driving conditions and improve vehicle safety metrics. | Python, PyTorch, TensorFlow, OpenCV, FastAPI |
-| 💬 [TrojanChat](https://github.com/Trojan3877/TrojanChat) | Real-time AI-powered chat system for USC football fans with Firebase integration. | C++, Python, Firebase, React, FastAPI |
-| ⚙️ [ML-Docker-Orchestrator](https://github.com/Trojan3877/ML-Docker-Orchestrator) | Automates training, validation, and deployment of ML models using Docker and CI/CD. | Docker, MLflow, Airflow, Jenkins |
-| 🏥 [AI ER Triage System](https://github.com/Trojan3877/AI-ER-Triage-System) | Optimizes emergency room triage decisions using AI + automation pipelines. | Python, Java, Snowflake, Ansible, Kubernetes |
-| 📘 [AI & UBI Research Paper](https://github.com/Trojan3877/AI-UBI-Research) | Paper exploring the societal impact of automation and potential Universal Basic Income solutions. | Markdown, LaTeX, Research Citations |
+<!-- HEADER BANNER -->
+<h1 align="center">🚀 Corey Leath — AI/ML Engineer & Full-Stack Developer</h1>
+<p align="center">
+  <strong>B.S. Software Development (Web & Mobile) | UPenn MS in AI Engineering (Incoming) | Future PhD in AI</strong>
+</p>
+<p align="center">
+  Building end-to-end production AI systems • LLMs • MLOps • Computer Vision • Multi-Language Engineering
+</p>
 
 ---
 
-### ⚙️ Tech Stack
-
-**Languages:** Python, C++, Java, JavaScript, SQL  
-**AI/ML:** TensorFlow, PyTorch, scikit-learn, OpenCV, MLflow  
-**Frameworks:** FastAPI, Django, React, Flask  
-**MLOps & Cloud:** Docker, Kubernetes, AWS, Airflow, GitHub Actions  
-**Tools:** Snowflake, Firebase, CI/CD Pipelines, Ansible  
+## 📊 GitHub Highlights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Trojan3877&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Trojan3877&theme=tokyonight&hide_border=true" height="160" />
+</p>
 
 ---
 
-### 🧩 Currently Building
-- 🧠 *AI Systems that learn and adapt across web, mobile, and cloud environments*  
-- 🔍 *Research on AI ethics and Universal Basic Income*  
-- 🏗️ *Next-gen scalable AI pipelines using Docker + Airflow + MLflow*  
+# 🚀 Portfolio Impact Summary
+
+I build **full-stack, production-grade AI/ML systems** that reflect the work of an engineer on track for **L4 roles with L6 growth potential**.  
+My repositories show a strong engineering mindset, real-world system design, and deep passion for using AI to improve lives.
 
 ---
 
-### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/corey-leath)
-[![GitHub](https://img.shields.io/badge/GitHub-Trojan3877-black)](https://github.com/Trojan3877)
+## ⭐ End-to-End Machine Learning Systems
+I design complete ML lifecycles:
 
-## 🧩 Tech & Tools  
-![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)  
-![C++](https://img.shields.io/badge/C++-17-blue?logo=cplusplus)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.14-orange?logo=tensorflow)  
-![PyTorch](https://img.shields.io/badge/PyTorch-2.2-red?logo=pytorch)  
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-yellow?logo=scikitlearn)  
-![AWS SageMaker](https://img.shields.io/badge/AWS-SageMaker-orange?logo=amazonaws)  
-![Docker](https://img.shields.io/badge/Docker-Containerization-blue?logo=docker)  
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI/CD-black?logo=githubactions)  
-<!-- ML & Orchestration Stack Badges -->
-
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![MetrixFlow](https://img.shields.io/badge/MetrixFlow-5A3FD2?style=for-the-badge&logo=graph&logoColor=white)
+- Data ingestion & ETL  
+- Preprocessing pipelines  
+- Model training (PyTorch / TensorFlow)  
+- Experiment tracking  
+- Evaluation → Deployment → Monitoring  
+- FastAPI inference services  
+- GPU-accelerated workflows (RTX 5070)
 
 ---
 
-## 🚀 Featured Research & Engineering Projects
+## 🤖 Advanced AI Projects
+Some of my core systems include:
 
-### 🧠 [Quant LLM Assistant](https://github.com/Trojan3877/Quant_LLM_Assistant)
-Fine-tuned transformer-based LLM for quantitative reasoning using a retrieval-augmented generation (RAG) pipeline.  
-- Implemented contextual retrieval with FAISS improving factual recall by **+17.3%**  
-- Achieved **BLEU score 82.4** and **perplexity 9.1** across 3 datasets  
-- Integrated evaluation pipeline using **ROUGE-L**, **F1**, and **SHAP** metrics for reproducibility  
+- **Facial Emotion Recognition System**  
+- **AI Vehicle Safety Classifier**  
+- **LLM Assistant / Multi-Agent Architecture**  
+- **NYC Finance Data Engineering Pipeline**  
+- **ER Triage Optimization System**  
+- **Quant LLM Research Assistant**  
+- **Cross-language ML projects (Python + Java + C++)**
 
-🧩 *Stack:* Python • PyTorch • LangChain • FAISS • Hugging Face • AWS SageMaker  
-
----
-
-### 😃 [Facial Emotion Recognition System](https://github.com/Trojan3877/Facial_Emotion_Recognition_System)
-End-to-end CNN for emotion detection on FER2013 dataset.  
-- **Accuracy:** 91.8% with 5-layer CNN + Dropout regularization  
-- Reduced model size by **32%** without performance degradation  
-- Built preprocessing pipeline for class imbalance mitigation via adaptive augmentation  
-
-🧩 *Stack:* TensorFlow • Keras • OpenCV • Matplotlib  
+These projects showcase NLP, CV, ML engineering, system orchestration, and multi-modal work.
 
 ---
 
-### 🩺 [Disease Prediction Capstone](https://github.com/Trojan3877/Disease_Prediction_Capstone)
-Applied ensemble ML model for clinical disease risk assessment.  
-- Ensemble (Random Forest + XGBoost) achieving **F1-score: 0.95**, **Precision: 0.93**, **Recall: 0.94**  
-- Added **SHAP explainability layer** and data visualization dashboard  
-- Automated feature scaling and model tracking via experiment logging  
+## 🏗 Production-Grade Engineering Practices
+My repositories feature:
 
-🧩 *Stack:* Scikit-learn • XGBoost • Pandas • Streamlit  
+- Dockerized ML models  
+- FastAPI + Microservices  
+- CI/CD pipelines (GitHub Actions)  
+- MLflow experiment tracking  
+- Airflow DAG orchestration  
+- Kubernetes-ready architecture  
+- Vector Databases + RAG pipeline design  
+- Detailed configuration management  
+- Professional repo structure & documentation  
 
----
-
-### 💬 [TrojanChat](https://github.com/Trojan3877/TrojanChat)
-System design and real-time communication platform for sports communities.  
-- Designed **C++ backend** integrated with Firebase for sub-50ms message latency  
-- Built topic-based channels and persistent cloud storage  
-- Upcoming feature: **LLM-based moderation & sentiment classification**
-
-🧩 *Stack:* C++ • Firebase • Python (API) • WebSocket  
+This mirrors real production ML systems inside FAANG and high-level AI orgs.
 
 ---
 
-## 📊 Research Metrics Summary
-| Metric | Result |
-|:-------|:-------|
-| **Avg Model Accuracy** | 90.4% |
-| **Best F1-Score (Disease Prediction)** | 0.95 |
-| **LLM BLEU Score** | 82.4 |
-| **Compression Efficiency** | 32% |
-| **Evaluation Tools** | BLEU, ROUGE-L, F1, SHAP, Perplexity |
+## 📈 L6-Level Metrics & Model Evaluation
+All major repos include (or will include):
+
+- Accuracy / Precision / Recall  
+- ROC-AUC and confusion matrices  
+- Model comparison charts  
+- Inference latency (ms)  
+- GPU benchmarks (RTX 5070)  
+- Performance curve visualizations  
+
+I treat evaluation the same way L5/L6 engineers do.
 
 ---
 
-## 🧩 Research & Technical Focus
-- **ML & DL:** LLMs, CNNs, Transformers, RNNs, Ensemble Models  
-- **MLOps:** AWS SageMaker, Docker, CI/CD, GitHub Actions  
-- **Software Dev:** Python, C++, Java, Flask, Web/Mobile Apps  
-- **Explainability:** SHAP, Feature Importance, Model Interpretability  
-- **Research Values:** Reproducibility • Benchmarking • Transparency  
+## 🧩 Multi-Language Engineering
+I actively build using:
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,aws,docker,kubernetes,github,linux,vscode,fastapi,tensorflow,pytorch,bash" />
+
+</p>
+
+This demonstrates cross-stack versatility and comfort with enterprise ecosystems.
 
 ---
 
-## 🎯 Career Objective
-Contribute to **AI Infrastructure** and **Applied Research** at **OpenAI** or **Netflix**, advancing scalable and ethical AI systems through rigorous experimentation and deployment excellence.  
+## 🔥 High-Trajectory Engineering Mindset
+
+Even though I am entering the field at the **L3/LL4 level**, my portfolio already demonstrates:
+
+- L6-style architecture & system docs  
+- Ownership of full ML components  
+- Advanced deployment skills  
+- Ability to integrate cloud, ML, and DevOps  
+- A growth curve pointing clearly toward senior levels  
+
+I build like someone preparing for **L5/L6 AI roles**, not a beginner.
 
 ---
 
-## 📫 Connect
-💻 [GitHub](https://github.com/Trojan3877)  
-🔗 [LinkedIn](https://linkedin.com/in/coreyleath)  
-📧 coreyleath@gmail.com
-Hi, I'm **Corey Leath** — a passionate builder, creative mind, and resilient spirit on a mission to engineer a better world through Artificial . I also attend the **Interview Kickstart Machine Learning Engineering bootcamp**, where I’m sharpening my skills for Big Tech, Big AI, and FinTech roles.
+# 📌 Pinned Projects (Top Repos)
 
-But I’m not just about code — I’m about **impact**.
+<p align="center">
+  <a href="https://github.com/Trojan3877/Facial-Emotion-Recognition-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Trojan3877&repo=Facial-Emotion-Recognition-System&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Trojan3877/AI-Vehicle-Safety-Classifier">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Trojan3877&repo=AI-Vehicle-Safety-Classifier&theme=tokyonight" />
+  </a>
+</p>
 
----
-
-## 🔧 My Work
-
-I specialize in building **production-grade AI/ML systems** with a focus on:
-
-- 🧠 Ethical Large Language Models (LLMs)
-- 🎯 Computer Vision (Emotion Detection, Safety Systems)
-- 📊 Quantitative Research Tools
-- ⚙️ MLOps pipelines (Docker, Kubernetes, CI/CD)
-- ☁️ Cloud AI (AWS, Snowflake, FastAPI, Terraform)
-
-Every project on this GitHub is built with:
-- Clean, modular code with comments
-- Quantifiable evaluation metrics
-- Clear folder structure & professional documentation
-- Real-world use cases and industry alignment
-
-🧪 I believe in solving hard problems with empathy and intelligence.
+<p align="center">
+  <a href="https://github.com/Trojan3877/NYC-Finance-DataEngineering">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Trojan3877&repo=NYC-Finance-DataEngineering&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Trojan3877/Quant-LLM-Assistant">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Trojan3877&repo=Quant-LLM-Assistant&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
-## ❤️ What Drives Me
+## 📬 Contact Me
 
-I’ve overcome incredible challenges—**mental health battles, foster care, trauma, and loss**—and I carry those experiences into my work.
-
-I live with **schizoaffective disorder**, but I refuse to let it define me. Instead, I use it to **fuel empathy, purpose, and resilience** in everything I create.
-
-I'm a proud believer in **God and Jesus**, a huge fan of **college football**, and a loyal lover of:
-- 💻 Samsung products
-- 🎮 Xbox gaming
-- 🍽️ Good food
-- 🐶 Dogs
-- 🇺🇸 America
-
-I’m not just building software. I’m building a future where **AI uplifts everyone**, especially those often left behind.
-
-> 🧠 *“I build because I believe no one should be left behind in the age of AI.”*
+- 📧 **Email:** Corey22blue@hotmail.com  
+- 🌐 **GitHub:** https://github.com/Trojan3877  
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/corey-leath  
+- 🏆 **IEEE Member**  
 
 ---
 
-## 🚀 Let’s Connect
+<h3 align="center">⚡ “I build AI systems with purpose — to solve problems, help people, and change lives.” ⚡</h3>
 
-I'm open to:
-- 💼 Internships (Remote-first preferred)
-- 🤝 Open-source collaborations
-- 🌍 Ethical AI projects
-- 👨‍🏫 Mentorship & growth opportunities
-
-📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/corey-leath/) or check out my top projects here on GitHub.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-`Python` • `C++` • `Java` • `PyTorch` • `TensorFlow` • `FastAPI` • `Docker` • `Kubernetes` • `Snowflake` • `Ansible` • `Terraform` • `CI/CD` • `Jupyter Notebooks` • `GitHub Actions` • `Scikit-Learn` • `AWS SageMaker`
-
----
-
-### 📊 GitHub Stats (Auto-Updated)
-
-![Corey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trojan3877&show_icons=true&theme=react)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Trojan3877&layout=compact&theme=react)
-
----
-
-⭐ Thank you for stopping by. Let’s build the future—ethically, boldly, and together.
-
-
-### 📊 GitHub Stats (Auto-Updated)
-
-![Corey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trojan3877&show_icons=true&theme=react)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Trojan3877&layout=compact&theme=react)
-
----
-
-⭐ **Thank you for stopping by. Let’s build the future—ethically, boldly, and together.**
-
-# Readme.md
-# AI and the Rise of Universal Basic Income  
-### *A New Social Contract for the Age of Automation*  
-📄 Written by Corey Leath | April 2025
-
----
-
-## 🔍 Overview
-
-As artificial intelligence continues to replace both low- and high-skill jobs, the world is approaching a major economic inflection point. This research paper explores the need for **Universal Basic Income (UBI)** as a humane and sustainable response to large-scale automation. It argues that UBI is not only an economic tool but also a moral imperative in an era where machines may outperform humans across industries.
-
----
-
-## 🧠 Key Themes
-
-- The impact of AI on skilled labor, including software engineering, design, healthcare, and logistics
-- Quantifiable evidence from Oxford, WEF, and pilot programs in Finland & Stockton, CA
-- The case for UBI as a buffer against permanent job displacement
-- Economic, ethical, and societal risks of ignoring this transformation
-- A call for **Ethics Boards** in every AI domain: Deep Learning, Generative AI, Robotics, and more
-
----
-
-## 🗂️ Paper Structure
-
-1. Introduction  
-2. The Acceleration of AI and Job Displacement  
-3. The Economic Risks of Widespread Automation  
-4. What is Universal Basic Income?  
-5. Arguments for UBI in an AI Economy  
-6. Challenges and Criticism of UBI  
-7. Policy Pathways and the Role of Engineers  
-8. Personal Reflection  
-9. Conclusion
-
----
-
-## 📥 Download
-
-📄 [Download Full Research Paper (.docx)](Corey_Leath_AI_and_UBI_Research_Paper.docx)
-
----
-
-## ✍️ Author
-
-**Corey Leath**  
-🎓 Aspiring AI/ML Engineer | Dual B.S. Candidate in Artificial Intelligence & Computer Science  
-🎯 Future MSSE Candidate at UC Berkeley | Future PhD in AI  
-🔗 [linkedin.com/in/corey-leath](https://www.linkedin.com/in/corey-leath)  
-🔗 [github.com/Trojan3877](https://github.com/Trojan3877)
-
----
-
-## 📢 License
-
-This research paper is open for public reading and awareness. Citation is encouraged. Please do not redistribute without attribution.
-
----
-
-> “UBI isn’t just about income. It’s about dignity, stability, and the right to thrive in an age of intelligent machines.”  
-> — Corey Leath
