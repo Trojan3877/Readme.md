@@ -100,7 +100,7 @@ ML system evaluating driving conditions and safety levels (Python + C++ expansio
 
 📧 **Email:** Corey22blue@hotmail.com  
 🔗 **GitHub:** https://github.com/Trojan3877  
-🔗 **LinkedIn:** *(Add your link here)*  
+🔗 **LinkedIn:** *(http://linkedin.com/in/corey-leath)*  
 
 ---
 
