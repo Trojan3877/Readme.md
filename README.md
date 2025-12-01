@@ -86,14 +86,17 @@ A professional research paper discussing AI’s impact on automation, labor mark
 
 ---
 
+
 # 📊 GitHub Analytics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trojan3877&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Trojan3877&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=Trojan3877&count_private=true&show_icons=true&theme=react" height="180px"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trojan3877&layout=compact&theme=react" height="180px"/>
 
 </div>
+
 
 ---
 
