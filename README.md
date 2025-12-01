@@ -70,18 +70,6 @@
 
 ---
 
-## 🏷 Repo Badges (Use in Individual Projects)
-![MIT License](https://img.shields.io/badge/License-MIT-green)
-![Pull Requests](https://img.shields.io/badge/PRs-Welcome-brightgreen)
-![Issues](https://img.shields.io/badge/Issues-Enabled-blue)
-![Stars](https://img.shields.io/badge/Stars-⭐-yellow)
-
-
-
-
-
-
-
 
 # 🚀 Corey Leath — Software Engineer | AI/ML Engineer | Future FinTech Developer
 
