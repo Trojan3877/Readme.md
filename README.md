@@ -1,5 +1,5 @@
 AI / ML Engineering Student | Production-Grade ML Systems | Computer Vision, Recommenders, MLOps
-
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trojan3877&show_icons=true&theme=dark)
 ## Why follow this GitHub?
 
 - 🔁 I continuously upgrade projects to production-grade ML standards  
