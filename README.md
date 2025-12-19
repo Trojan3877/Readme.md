@@ -1,3 +1,4 @@
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trojan3877&show_icons=true&theme=dark)
 
 
 # 🛡️ Tech Stack & Tools
