@@ -1,3 +1,11 @@
+AI / ML Engineering Student | Production-Grade ML Systems | Computer Vision, Recommenders, MLOps
+
+### Why follow this GitHub?
+- 🔁 I continuously upgrade projects to production-quality (L5/L6 standards)
+- 📊 I publish real ML metrics, benchmarks, and evaluations
+- 🧠 I focus on applied AI systems — not toy notebooks
+- 🛠️ I share reusable ML & system design patterns
+
 # 🛡️ Tech Stack & Tools
 
 ## 🚀 Languages
