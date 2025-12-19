@@ -1,11 +1,4 @@
-AI / ML Engineering Student | Production-Grade ML Systems | Computer Vision, Recommenders, MLOps
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trojan3877&show_icons=true&theme=dark)
-## Why follow this GitHub?
 
-- 🔁 I continuously upgrade projects to production-grade ML standards  
-- 📊 I publish real metrics (precision, recall, confusion matrices)  
-- 🧠 I focus on applied AI systems — not toy notebooks  
-- 🛠️ I share reusable ML pipelines, system design, and MLOps patterns
 
 # 🛡️ Tech Stack & Tools
 
@@ -78,19 +71,66 @@ AI / ML Engineering Student | Production-Grade ML Systems | Computer Vision, Rec
 ![Amazon](https://img.shields.io/badge/Amazon-FF9900?logo=amazon&logoColor=black)
 
 ---
+# Corey Leath  
+**AI / ML Engineer | Production-Grade Machine Learning Systems | MLOps & Applied AI**
 
+I design, build, and continuously improve **end-to-end machine learning systems** with a focus on **real-world deployment, metrics, and scalability** — not toy notebooks.
 
-# 🚀 Corey Leath — Software Engineer | AI/ML Engineer | Future FinTech Developer
-
-<div align="center">
-
-### **Building Intelligent Systems with Full-Stack, Machine Learning, and Quant Engineering**
-**GitHub:** https://github.com/Trojan3877  
-**LinkedIn:** https://linkedin.com/in/corey-leath  
-
-</div>
+My work emphasizes:
+- Production ML pipelines (data → training → evaluation → inference)
+- Measurable model performance (precision, recall, F1, confusion matrices)
+- System design, modular architecture, and maintainability
+- Applied AI across Computer Vision, Recommender Systems, and ML platforms
 
 ---
+
+## Why follow this GitHub?
+
+- 🔁 I iteratively upgrade projects to **production-grade ML standards (L5/L6 quality)**
+- 📊 I publish **real evaluation metrics**, not placeholder results
+- 🧠 I focus on **applied AI systems**, not academic-only demos
+- 🛠️ I share **reusable ML patterns**, pipelines, and design decisions
+
+If you care about *how ML actually works in production*, you’ll find value here.
+
+---
+
+## Featured Projects (Flagship Work)
+
+### 🔹 Facial Emotion Recognition System  
+End-to-end Computer Vision pipeline for real-time emotion inference using CNNs.  
+Includes preprocessing, model training, evaluation metrics, and inference logic.
+
+### 🔹 AI Vehicle Safety Classifier  
+ML system for classifying driving conditions and safety risk using structured data.  
+Designed with modular scoring logic and extensible evaluation.
+
+### 🔹 Deep Sequence Recommender  
+Sequence-based recommendation system leveraging temporal user behavior patterns.  
+Focused on scalability, feature engineering, and ranking logic.
+
+---
+
+## Technical Focus
+
+**Languages:** Python, C++, SQL  
+**ML / AI:** PyTorch, TensorFlow, Scikit-learn, CNNs, Sequence Models  
+**MLOps & Systems:** Modular Pipelines, Evaluation Frameworks, CI/CD Concepts  
+**Domains:** Computer Vision, Recommenders, Applied Machine Learning
+
+---
+
+## Background
+
+Senior undergraduate in Software Development with formal training in Machine Learning and Engineering Technology.  
+Preparing for **ML / AI Engineering internships and graduate study**, with long-term focus on high-impact production systems.
+
+---
+
+⭐ If any project here helps you, consider starring it  
+👤 Follow me for continuous production-grade ML system upgrades  
+🔗 https://github.com/Trojan3877
+
 
 ## 👨‍💻 About Me
 
