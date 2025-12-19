@@ -194,7 +194,11 @@ A professional research paper discussing AI’s impact on automation, labor mark
 ---
 
 # 🤝 Let’s Connect
+---
 
+⭐ If any project here helps you, consider starring it  
+👤 Follow me for continuous ML system upgrades and new builds  
+🔗 https://github.com/Trojan3877
 I’m always open to internship opportunities, collaborations, and engineering discussions. If my projects align with your team’s goals, feel free to reach out — I’d love to contribute.
 
 
