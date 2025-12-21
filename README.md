@@ -75,14 +75,25 @@
 
 ---
 
-## 🏢 Big Tech & AI Interests
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?logo=nvidia&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
-![Google](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=white)
-![Meta](https://img.shields.io/badge/Meta-0467DF?logo=meta&logoColor=white)
-![Amazon](https://img.shields.io/badge/Amazon-FF9900?logo=amazon&logoColor=black)
-
+## 🏢 Big Tech & AI Interests 
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Google](https://img.shields.io/badge/Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![DeepMind](https://img.shields.io/badge/DeepMind-0A0A0A?style=for-the-badge&logo=google&logoColor=white)
+![Meta](https://img.shields.io/badge/Meta_AI-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![Amazon](https://img.shields.io/badge/Amazon_AI-FF9900?style=for-the-badge&logo=amazon&logoColor=black)
+![Microsoft](https://img.shields.io/badge/Microsoft_AI-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA_AI-76B900?style=for-the-badge&logo=nvidia&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS_ML-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP_ML-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_ML-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![PayPal](https://img.shields.io/badge/PayPal_AI-003087?style=for-the-badge&logo=paypal&logoColor=white)
+![Robinhood](https://img.shields.io/badge/Robinhood-00C805?style=for-the-badge&logo=robinhood&logoColor=black)
+![Bloomberg](https://img.shields.io/badge/Bloomberg_Data-000000?style=for-the-badge&logo=bloomberg&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge)
+![DevOps](https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge)
+![Production ML](https://img.shields.io/badge/Production--ML-6A5ACD?style=for-the-badge)
+![Scalable Systems](https://img.shields.io/badge/Scalable_Systems-2E8B57?style=for-the-badge)
 ---
 # Corey Leath  
 **AI / ML Engineer | Production-Grade Machine Learning Systems | MLOps & Applied AI**
