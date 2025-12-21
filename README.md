@@ -1,4 +1,16 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trojan3877&show_icons=true&theme=dark)
+### 📊 GitHub Portfolio Grade
+**Grade: A- (Internship & Early-Career Ready)**
+
+> Assessed from a Big Tech / AI recruiter perspective based on:
+> - Project depth & realism  
+> - ML systems & MLOps awareness  
+> - Code quality & documentation  
+> - Consistency & commit activity  
+
+**Strengths:** Applied ML pipelines, Computer Vision, Finance/Quant systems, strong Python focus, real metrics  
+**Next Level:** More deployments, tests, and external contributions
+
+![Portfolio Grade](https://img.shields.io/badge/Portfolio%20Grade-A--blueviolet?style=for-the-badge&logo=github)
 
 
 # 🛡️ Tech Stack & Tools
