@@ -220,7 +220,7 @@ A real-time messaging platform for USC football fans using React Native + Fireba
 
 ---
 
-### 🔥 **Diabetes Prediction ML Pipeline**  
+### 🔥 **Disease Prediction ML Pipeline**  
 A clean ML pipeline including preprocessing, modeling, evaluation, metrics, EDA, and modular design.  
 *Tech:* Python, Scikit-Learn, Pandas, ML Pipeline
 
@@ -235,11 +235,16 @@ A professional research paper discussing AI’s impact on automation, labor mark
 
 # 📊 GitHub Analytics
 
-<div align="center">
+## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Trojan3877&count_private=true&show_icons=true&theme=react" height="180px"/>
+- 🗂️ **27 Public Repositories**
+- ⭐ **347+ Stars across all projects**
+- 👥 **32 Followers · 629 Following**
+- 🛠️ **Primary language:** Python
+- 📌 **Focus:** AI • Machine Learning • Computer Vision • MLOps • Software Engineering
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trojan3877&layout=compact&theme=react" height="180px"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trojan3877&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Trojan3877&layout=compact&theme=radical)
 
 </div>
 
