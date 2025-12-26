@@ -94,6 +94,8 @@
 ![DevOps](https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge)
 ![Production ML](https://img.shields.io/badge/Production--ML-6A5ACD?style=for-the-badge)
 ![Scalable Systems](https://img.shields.io/badge/Scalable_Systems-2E8B57?style=for-the-badge)
+![Netflix](https://img.shields.io/badge/Target-Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
+![Apple](https://img.shields.io/badge/Target-Apple-000000?style=for-the-badge&logo=apple&logoColor=white)
 ---
 # Corey Leath  
 **AI / ML Engineer | Production-Grade Machine Learning Systems | MLOps & Applied AI**
