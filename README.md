@@ -96,6 +96,14 @@
 ![Scalable Systems](https://img.shields.io/badge/Scalable_Systems-2E8B57?style=for-the-badge)
 ![Netflix](https://img.shields.io/badge/Target-Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
 ![Apple](https://img.shields.io/badge/Target-Apple-000000?style=for-the-badge&logo=apple&logoColor=white)
+![TikTok](https://img.shields.io/badge/Target-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+![Stripe](https://img.shields.io/badge/Target-Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Roblox](https://img.shields.io/badge/Target-Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white)
+![Databricks](https://img.shields.io/badge/Target-Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Target-Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Palantir](https://img.shields.io/badge/Target-Palantir-101113?style=for-the-badge&logo=palantir&logoColor=white)
+![Waymo](https://img.shields.io/badge/Target-Waymo-00AFAA?style=for-the-badge&logo=waymo&logoColor=white)
+![Scale AI](https://img.shields.io/badge/Target-Scale%20AI-4A90E2?style=for-the-badge)
 ---
 # Corey Leath  
 **AI / ML Engineer | Production-Grade Machine Learning Systems | MLOps & Applied AI**
