@@ -10,8 +10,6 @@
 **Strengths:** Applied ML pipelines, Computer Vision, Finance/Quant systems, strong Python focus, real metrics  
 **Next Level:** More deployments, tests, and external contributions
 
-![Portfolio Grade](https://img.shields.io/badge/Portfolio%20Grade-A--blueviolet?style=for-the-badge&logo=github)
-
 ![Portfolio Level](https://img.shields.io/badge/Portfolio%20Quality-L5%20Engineering-blueviolet)
 
 # 🛡️ Tech Stack & Tools
