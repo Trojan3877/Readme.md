@@ -12,6 +12,7 @@
 
 ![Portfolio Grade](https://img.shields.io/badge/Portfolio%20Grade-A--blueviolet?style=for-the-badge&logo=github)
 
+![Portfolio Level](https://img.shields.io/badge/Portfolio%20Quality-L5%20Engineering-blueviolet)
 
 # 🛡️ Tech Stack & Tools
 
@@ -143,7 +144,6 @@ Designed with modular scoring logic and extensible evaluation.
 Sequence-based recommendation system leveraging temporal user behavior patterns.  
 Focused on scalability, feature engineering, and ranking logic.
 
----
 
 ## Technical Focus
 
@@ -152,14 +152,13 @@ Focused on scalability, feature engineering, and ranking logic.
 **MLOps & Systems:** Modular Pipelines, Evaluation Frameworks, CI/CD Concepts  
 **Domains:** Computer Vision, Recommenders, Applied Machine Learning
 
----
 
-## Background
+
+Background
 
 Senior undergraduate in Software Development with formal training in Machine Learning and Engineering Technology.  
 Preparing for **ML / AI Engineering internships and graduate study**, with long-term focus on high-impact production systems.
 
----
 
 ⭐ If any project here helps you, consider starring it  
 👤 Follow me for continuous production-grade ML system upgrades  
@@ -184,9 +183,9 @@ Next, I plan to pursue a **Master’s in AI Engineering at UPenn**, followed by 
 
 My mission is to engineer systems that improve people’s lives — from finance and automation to healthcare and global-scale software platforms.
 
----
 
-## 🛠️ Technical Skills
+
+🛠️ Technical Skills
 
 **Languages:** Python • C++ • Java • JavaScript • TypeScript • SQL  
 **Machine Learning:** PyTorch • TensorFlow • Scikit-Learn • Pandas • NumPy  
@@ -202,56 +201,38 @@ My mission is to engineer systems that improve people’s lives — from finance
 - CI/CD Automation  
 - Infrastructure-as-Code (IaC)  
 
----
 
-# 📌 Featured Projects (Top Repositories)
+📌 Featured Projects (Top Repositories)
 
-### 🔥 **Algo-Quant-Backtester**  
+🔥 **Algo-Quant-Backtester**  
 A modular quantitative trading engine with indicators, strategy simulation, performance tracking, and ML-ready architecture.  
 *Tech:* Python, Pandas, NumPy, Modular Architecture
 
----
-
-### 🔥 **Facial Emotion Recognition System**  
+🔥 **Facial Emotion Recognition System**  
 End-to-end CNN-based emotion classifier with logging, metrics, Docker, FastAPI inference, and Streamlit UI.  
 *Tech:* PyTorch, Python, CNN, CV, FastAPI, Streamlit
 
----
 
-### 🔥 **AI Vehicle Safety Classifier (C++ + Python)**  
+🔥 **AI Vehicle Safety Classifier (C++ + Python)**  
 Dual-language ML classifier demonstrating OOP design, scoring logic, and cross-language architecture.  
 *Tech:* C++, Python, Metrics, System Design
 
----
 
-### 🔥 **TrojanChat (Mobile App)**  
+
+🔥 **TrojanChat (Mobile App)**  
 A real-time messaging platform for USC football fans using React Native + Firebase.  
 *Tech:* JavaScript, React Native, Firebase, Mobile Design
 
----
 
-### 🔥 **Disease Prediction ML Pipeline**  
+
+🔥 **Disease Prediction ML Pipeline**  
 A clean ML pipeline including preprocessing, modeling, evaluation, metrics, EDA, and modular design.  
 *Tech:* Python, Scikit-Learn, Pandas, ML Pipeline
 
----
 
-### 🔥 **UBI + AI Research Paper (LinkedIn / GitHub PDF)**  
+🔥 **UBI + AI Research Paper (LinkedIn / GitHub PDF)**  
 A professional research paper discussing AI’s impact on automation, labor markets, and Universal Basic Income.  
 *Tech:* Academic Research, Data, AI Trends
-
----
-
-
-# 📊 GitHub Analytics
-
-## 📊 GitHub Stats
-
-- 🗂️ **27 Public Repositories**
-- ⭐ **347+ Stars across all projects**
-- 👥 **32 Followers · 629 Following**
-- 🛠️ **Primary language:** Python
-- 📌 **Focus:** AI • Machine Learning • Computer Vision • MLOps • Software Engineering
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trojan3877&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Trojan3877&layout=compact&theme=radical)
