@@ -126,7 +126,9 @@ My work emphasizes:
 
 If you care about *how ML actually works in production*, you’ll find value here.
 
----
+• ML-Docker-Orchestrator — full stack MLOps pipeline (FastAPI, Docker, GitHub Actions, Kubernetes, Terraform)
+• TrojanChat — Production-grade LLM system with MLflow observability and Streamlit UI
+• DeepSequence Recommender — Collaborative filtering + scalable recommendations
 
 ## Featured Projects (Flagship Work)
 
