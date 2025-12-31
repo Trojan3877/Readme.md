@@ -1,5 +1,9 @@
 ### 📊 GitHub Portfolio Grade
-**Grade: A- (Internship & Early-Career Ready)**
+**Grade: A- (Internship & Early-Career Ready)
+
+| GitHub Stats | Top Languages |
+|-------------|---------------|
+| ![Stats](https://github-readme-stats.vercel.app/api?username=Trojan3877&show_icons=true&theme=github_dark&hide_border=true) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trojan3877&layout=compact&theme=github_dark&hide_border=true) |
 
 > Assessed from a Big Tech / AI recruiter perspective based on:
 > - Project depth & realism  
