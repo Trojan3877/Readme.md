@@ -2,7 +2,7 @@
 
 **Software Engineer | AI Engineer | MLOps | Distributed Systems**
 
-I'm a Software Engineering student focused on AI Engineering and production-oriented software. I build practical systems across machine learning, backend platforms, cloud infrastructure, MLOps, and distributed computing.
+I'm a Software Development student focused on AI Engineering and production-oriented software. I build practical systems across machine learning, backend platforms, cloud infrastructure, MLOps, and distributed computing.
 
 My goal is to design scalable, maintainable software while continuously improving engineering quality through testing, automation, documentation, and measurable performance benchmarks.
 
