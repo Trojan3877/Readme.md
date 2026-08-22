@@ -1,241 +1,291 @@
 # 👋 Hi, I'm Corey Leath
 
+[![GitHub](https://img.shields.io/badge/GitHub-CoreyLeath--code-181717?logo=github)](https://github.com/CoreyLeath-code)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Engineering%20Systems-2563EB)](https://github.com/CoreyLeath-code?tab=repositories)
+[![Focus](https://img.shields.io/badge/Focus-AI%20%7C%20MLOps%20%7C%20Distributed%20Systems-6A5ACD)](#technical-focus)
+[![Evidence](https://img.shields.io/badge/Engineering-Evidence--First-2E8B57)](#engineering-evidence-model)
+
 **Software Engineer | AI Engineer | MLOps | Distributed Systems**
 
-I'm a Software Development student focused on AI Engineering and production-oriented software. I build practical systems across machine learning, backend platforms, cloud infrastructure, MLOps, and distributed computing.
+I am a Software Development student focused on AI engineering, backend systems, data platforms, and production-oriented software. My portfolio is organized around one principle: **claims should be backed by code, tests, reproducible commands, versioned artifacts, or measured evidence.**
 
-My goal is to design scalable, maintainable software while continuously improving engineering quality through testing, automation, documentation, and measurable performance benchmarks.
-
-## 🚀 What I Build
-
-| Area | Focus | Representative Projects |
-|---|---|---|
-| AI & Machine Learning | Deep learning, computer vision, NLP, recommendation systems | Facial Emotion Recognition System, DeepSequence-Recommender, Disease Prediction Capstone, SafeSight-AI, TransformerForge |
-| AI Infrastructure & MLOps | Production AI, monitoring, model governance, deployment pipelines | SentinelAI, Energy-Demand-Forecasting-DevMLOps, AWS SageMaker Snowflake ML Pipeline, PredictiveMaintenance_IoT |
-| Backend & Distributed Systems | Scalable APIs, high-performance services, event-driven systems | TrojanChat, LogSight-AI, IntelliOps-AI, Neural Network From Scratch (C++) |
-| Data Engineering & Analytics | ETL, warehousing, SQL analytics, data quality | NYC Finance Data Engineering, LoanDefaultRiskPredictor, NetRecommender |
-| Quantitative Finance & AI | Time series, vector search, financial modeling, LLM applications | Quant LLM Assistant, Algo Quant Backtester |
-| Software Engineering | Clean architecture, OOP, testing, design patterns | Software3-Lab, ML Docker Orchestrator |
-
-## ⭐ Featured Enterprise Projects
-
-| Project | Focus |
-|---|---|
-| [SentinelAI](https://github.com/CoreyLeath-code/SentinelAI) | AI reliability, monitoring, and MLOps platform |
-| [DeepSequence-Recommender](https://github.com/CoreyLeath-code/DeepSequence-Recommender) | Transformer-style recommendation engine |
-| [TrojanChat](https://github.com/CoreyLeath-code/TrojanChat) | Enterprise AI chat and real-time messaging platform |
-| [LogSight-AI](https://github.com/CoreyLeath-code/LogSight-AI) | Log analytics, anomaly detection, and AIOps telemetry |
-| [Facial Emotion Recognition System](https://github.com/CoreyLeath-code/Facial-Emotion-Recognition-System) | Computer vision and deep learning pipeline |
-| [AutoGuard-AI](https://github.com/CoreyLeath-code/AutoGuard-AI-Real-Time-Autonomous-Vehicle-Safety-Geofencing-Platform) | Real-time AI safety and geofencing system |
-
-## 🧠 Technical Focus Areas
-
-### 🤖 AI & Machine Learning
-
-**Focus:** Deep Learning • Computer Vision • NLP • Recommendation Systems
-
-**Core skills:** PyTorch, TensorFlow, CNNs, Transformers, LLMs, Vector Search, Feature Engineering
-
-### 🧩 AI Infrastructure & MLOps
-
-**Focus:** Production AI • Monitoring • Model Governance • Automated Deployment
-
-**Core skills:** MLflow, Docker, Kubernetes, Terraform, GitHub Actions, Prometheus, Grafana
-
-### ☁️ Backend & Distributed Systems
-
-**Focus:** Scalable APIs • High-Performance Systems • Event-Driven Services
-
-**Core skills:** FastAPI, Go, C++, REST APIs, gRPC, Redis, Kafka
-
-### 📊 Data Engineering & Analytics
-
-**Focus:** ETL • Data Warehousing • Analytics Pipelines • Data Quality
-
-**Core skills:** Snowflake, SQL, Pandas, ETL, Data Warehousing
-
-### 💹 Quantitative Finance & AI
-
-**Focus:** Time Series • Strategy Research • Financial Modeling • LLM Research Tools
-
-**Core skills:** Backtesting, Vector Search, Financial Modeling, LLM Applications
-
-## 🏗️ Engineering Practices
-
-Across every repository, I aim to include:
-
-| Practice | Purpose |
-|---|---|
-| GitHub Actions | Automated CI/CD and repeatable validation |
-| Unit and Integration Tests | Reliable behavior across core workflows |
-| Code Coverage | Measurable test completeness |
-| Docker | Portable local and deployment environments |
-| Static Analysis | Code quality and maintainability checks |
-| Security Scanning | Dependency and secret-risk detection |
-| Architecture Diagrams | Clear system design documentation |
-| API Documentation | Usable interfaces and onboarding clarity |
-| Performance Benchmarks | Latency and throughput visibility |
-| CHANGELOG and Semantic Versioning | Traceable release history |
-| Issue and PR Templates | Consistent collaboration workflow |
-
-## 🛠️ Technical Skills
-
-| Category | Tools & Languages |
-|---|---|
-| Languages | Python, C#, C++, Go, Java, TypeScript, SQL |
-| AI / ML | PyTorch, TensorFlow, MLflow, Hugging Face, Scikit-learn |
-| Cloud & DevOps | AWS, Docker, Kubernetes, Terraform, GitHub Actions |
-| Databases | PostgreSQL, Snowflake, Firebase |
-| Engineering | OOP, Design Patterns, Clean Architecture, SOLID Principles, Testing |
-
-## 📈 Current Goals
-
-- Complete B.S. in Software Development
-- Complete M.S. in AI Engineering
-- Pursue a Ph.D. in Computer Science with an AI focus
-- Continue building production-quality AI systems
-- Contribute to open source
-- Expand expertise in distributed AI infrastructure
-
-### 🚀 Live Engineering Telemetry (Recent Pushes)
-
-<!-- START_SECTION:activity -->
-<!-- END_SECTION:activity -->
-
-
-*Automated via Python & GitHub Actions CI/CD*
-
-### 👤 About Me
-
-* **AI Engineering Graduate Student**
-* **Software Development Bachelor's Graduate**
-* **Building scalable Machine Learning and MLOps solutions**
-* **I build production-oriented machine learning systems, cloud-native AI infrastructure, and end-to-end data platforms.**
-* **Interested in Applied AI, LLM Systems, Forecasting, and Quantitative Analytics**
-* **Seeking Machine Learning Engineering and AI Engineering Opportunities**
-
-### 🎯 Current Focus
-
-* **Large Language Models (LLMs)**
-* **MLOps & Model Deployment**
-* **Cloud AI Infrastructure**
-* **Data Engineering Pipelines**
-* **Applied Machine Learning Research**
-* **AI Product Development**
-
-### 📖 Technical Documentation & Journals
-
-* 🏛️ **[HelixAgent Core Engine Testing Matrix](https://github.com/CoreyLeath-code/HelixAgent)** — Live repository running multi-layer security scanning, code quality checks, and auto-release pipelines.
-* 📓 **[HelixAgent Live Engineering Log](https://github.com/CoreyLeath-code/HelixAgent/blob/main/dailylog.md)** — Detailed running analysis of architectural refactors, system optimizations, and daily research milestones.
-* 🔍 **[LogSight-AI Observability Telemetry](https://github.com/CoreyLeath-code/LogSight-AI)** — Real-time intelligent log parsing and anomaly analytics engine backed by an automated 7-tier code hygiene and threat shield.
-* 🛡️ **[SentinelAI Production Inference Platform](https://github.com/CoreyLeath-code/SentinelAI)** — AI monitoring framework tracking embedding drift, model performance, and runtime health metrics via custom SAST telemetry.
-* 🚘 **[AutoGuard-AI Real-Time Safety Platform](https://github.com/CoreyLeath-code/AutoGuard-AI-Real-Time-Autonomous-Vehicle-Safety-Geofencing-Platform)** — Autonomous vehicle geofencing pipeline running low-latency streaming anomaly processing and live telemetry compliance checks.
-* 🧮 **[Quant-LLM-Assistant Intelligence Engine](https://github.com/CoreyLeath-code/QUANT-LLM-ASSISTANT)** — Multi-agent financial research assistant utilizing vector databases, Kafka message streams, and performance latency profiling.
-* 📈 **[Algo-Quant-Backtester Engine](https://github.com/CoreyLeath-code/Algo-Quant-Backtester)** — End-to-end DevMLOps algorithmic simulation platform designed to validate, backtest, and profile complex quantitative trading strategies.
-* ☁️ **[AWS-SageMaker-Snowflake-ML-Pipeline](https://github.com/CoreyLeath-code/AWS-SageMaker-Snowflake-ML-Pipeline)** — Production-grade data engineering pipeline orchestrating large-scale warehouse data ingestion, feature extraction, and automated training.
-* 🤖 **[AI-Powered-personal-Assistant Platform](https://github.com/CoreyLeath-code/AI-Powered-personal-Assistant)** — Core automation architecture executing real-time task orchestration, conversational intelligence, and localized service interfaces.
-* ⚙️ **[IntelliOps-AI Infrastructure](https://github.com/CoreyLeath-code/IntelliOps-AI)** — Predictive site reliability and operations engine automating system health telemetry, process clustering, and container monitoring loops.
-* 🧬 **[Disease_Prediction_Capstone](https://github.com/CoreyLeath-code/Disease_Prediction_Capstone)** — Machine learning diagnostic system mapping clinical data arrays to target classification topologies with rigorous feature evaluation profiles.
-* 🛒 **[DeepSequence-Recommender System Engine](https://github.com/CoreyLeath-code/DeepSequence-Recommender)** — Deep sequential recommendation framework featuring accelerated pip-caching pipelines, data-drift assertions, and inference latency profiling.
-* 📷 **[Facial-Emotion-Recognition-System Pipeline](https://github.com/CoreyLeath-code/Facial-Emotion-Recognition-System)** — Robust computer vision pipeline classifying expressions from video streams protected by a 7-tier static linter and inference tracking suite.
-
-(https://github.com/CoreyLeath-code/Scalable-Event-Driven-Ride-Sharing-Platform/tree/main/docs)
-
-(https://github.com/CoreyLeath-code/PredictiveMaintenance_IoT/tree/main/docs)
-[📚 Technical Documentation & Engineering Journals](https://github.com/CoreyLeath-code/-Hierarchical-Language-Model/tree/main/docs)
-
-LLM Quant Assistant
-
-Financial intelligence platform leveraging modern LLM workflows, retrieval-augmented generation (RAG), and quantitative analytics.
-
-AWS SageMaker + Snowflake ML Pipeline
-
-Production-ready machine learning workflow integrating cloud infrastructure, automated training, and deployment.
-
-Facial Emotion Recognition System
-
-Deep learning computer vision application built with PyTorch, FastAPI, and Docker.
-
-Energy Demand Forecasting Platform
-
-Time-series forecasting system featuring automated data pipelines and MLOps practices.
-
-Algorithmic Trading Backtester
-
-Research platform for evaluating systematic trading strategies and portfolio performance.
-
-## 🛠️ My Engineering & Systems Hygiene Standards (Level 6 Blueprint)
-
-Every repository I architect is strictly bounded by an automated **7-tier CI/CD telemetry plane** to ensure production-grade security, code quality, and operational reliability on every upstream push.
-
-├── .github/
-│   └── workflows/
-│       ├── ci-cd.yml             # 🧪 1. Core Testing Matrix (PyTest Engine)
-│       ├── ci.yml                # 🎨 2. Code Hygiene (Flake8 Styling Compliance)
-│       ├── security.yml          # 🛡️ 3. Vulnerability Protection (Secrets & Package Scan)
-│       ├── sast.yml              # 🔍 4. Custom Code Flaw Scan (SAST via Bandit)
-│       ├── benchmarks.yml        # ⏱️ 5. Performance Tracking (Latency Profiling)
-│       ├── data-validation.yml   # 🧬 6. Schema Consistency (Data Contract Checks)
-│       └── release.yml           # 🏷️ 7. Release Engineering (Automated Semantic Tagging)
-
-
-Technology Stack
-
-Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
-
-Machine Learning
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-
-Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge\&logo=terraform\&logoColor=white)
-
-Data Engineering
-
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge\&logo=snowflake\&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge\&logo=databricks\&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge\&logo=apacheairflow\&logoColor=white)
-
-
-## 📈 GitHub Contribution Graph
-
-[![Corey's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CoreyLeath-code&theme=react-dark&hide_border=true)](https://github.com/CoreyLeath-code)
-
-
-
-
-## Education
-
-### Master of Science — AI Engineering
-
-University of Purdue (Planned)
-
-Bachelor of Science — Software Development Specialized in web and mobile applications
-DeVry University
-Specialization: Web & Mobile Applications
-Associate of Science — Engineering Technology specializing in Machine learning and design techniques
-Associate of Science - Information Technology and Networking
-
-Completed Harvard University's CS50x (Introduction to Computer Science), mastering bare-metal memory management (C), pointers, manual memory allocation, and foundational data structures (Linked Lists, Hash Tables, Trees).
-
-
-
-Connect With Me
-
-* GitHub: https://github.com/Trojan3877
-* LinkedIn: https://linkedin.com/in/corey-leath
+I build projects across machine learning, MLOps, distributed systems, cloud infrastructure, data engineering, and quantitative research, with an emphasis on maintainability, observability, release engineering, and honest benchmarking.
 
 ---
 
-> Building production-grade AI systems, one repository at a time.
+## Portfolio at a glance
+
+| Area | What I build | Representative repositories |
+|---|---|---|
+| AI & Machine Learning | computer vision, NLP, recommendation systems, agentic runtimes | [TransformerForge](https://github.com/CoreyLeath-code/TransformerForge), [DeepSequence-Recommender](https://github.com/CoreyLeath-code/DeepSequence-Recommender), [Facial Emotion Recognition System](https://github.com/CoreyLeath-code/Facial-Emotion-Recognition-System), [HelixAgent](https://github.com/CoreyLeath-code/HelixAgent) |
+| AI Infrastructure & MLOps | model operations, monitoring, deployment workflows, evidence pipelines | [SentinelAI](https://github.com/CoreyLeath-code/SentinelAI), [PredictiveMaintenance_IoT](https://github.com/CoreyLeath-code/PredictiveMaintenance_IoT), [AWS SageMaker Snowflake ML Pipeline](https://github.com/CoreyLeath-code/AWS-SageMaker-Snowflake-ML-Pipeline) |
+| Backend & Distributed Systems | APIs, event-driven services, messaging, observability | [TrojanChat](https://github.com/CoreyLeath-code/TrojanChat), [LogSight-AI](https://github.com/CoreyLeath-code/LogSight-AI), [IntelliOps-AI](https://github.com/CoreyLeath-code/IntelliOps-AI), [Scalable Ride Sharing Platform](https://github.com/CoreyLeath-code/Scalable-Event-Driven-Ride-Sharing-Platform) |
+| Data Engineering | ETL, data contracts, warehouses, reproducible pipelines | [NYC Finance Data Engineering](https://github.com/CoreyLeath-code/NYC-Finance-Data-Engineering-Project), [LoanDefaultRiskPredictor](https://github.com/CoreyLeath-code/LoanDefaultRiskPredictor) |
+| Quantitative / Financial Systems | backtesting, research tooling, financial ML workflows | [Algo Quant Backtester](https://github.com/CoreyLeath-code/Algo-Quant-Backtester), [QUANT-LLM-ASSISTANT](https://github.com/CoreyLeath-code/QUANT-LLM-ASSISTANT) |
+| Software Engineering | domain modeling, testing, packaging, reproducibility | [Software3-Lab](https://github.com/CoreyLeath-code/Software3-Lab), [ML Docker Orchestrator](https://github.com/CoreyLeath-code/ML-Docker-Orchestrator) |
+
+---
+
+## Portfolio architecture
+
+```mermaid
+flowchart LR
+    A["AI / ML systems"] --> E["Evidence-first engineering"]
+    B["Backend / distributed systems"] --> E
+    C["Data engineering"] --> E
+    D["Cloud / MLOps"] --> E
+
+    E --> T["Tests + CI"]
+    E --> R["Reproducibility"]
+    E --> M["Benchmarks + metrics"]
+    E --> O["Observability"]
+    E --> S["Security + supply chain"]
+    E --> P["Release + package artifacts"]
+```
+
+## Engineering system design
+
+```mermaid
+flowchart TD
+    Idea["Problem / research question"] --> Contract["Define behavior and evidence boundary"]
+    Contract --> Build["Implement smallest verifiable system"]
+    Build --> Test["Unit + integration verification"]
+    Test --> Measure["Benchmark / metric collection"]
+    Measure --> Review{"Evidence supports claim?"}
+    Review -->|No| Refine["Refactor, instrument, or narrow claim"]
+    Refine --> Build
+    Review -->|Yes| Package["Versioned release / package"]
+    Package --> Document["README + architecture + limitations"]
+    Document --> Reproduce["Clean-checkout reproduction"]
+```
+
+This is the engineering loop I try to apply across the portfolio: **define the claim, implement it, test it, measure it, package it, and make it reproducible.**
+
+---
+
+## Featured engineering projects
+
+| Repository | Engineering focus |
+|---|---|
+| [HelixAgent](https://github.com/CoreyLeath-code/HelixAgent) | durable agent runtime, governed tools, checkpoints, observability |
+| [TransformerForge](https://github.com/CoreyLeath-code/TransformerForge) | summarization service, deterministic fallback, benchmark discipline |
+| [SentinelAI](https://github.com/CoreyLeath-code/SentinelAI) | AI monitoring and reliability engineering |
+| [DeepSequence-Recommender](https://github.com/CoreyLeath-code/DeepSequence-Recommender) | recommendation-system architecture and evaluation workflows |
+| [LogSight-AI](https://github.com/CoreyLeath-code/LogSight-AI) | AIOps/log analytics and telemetry |
+| [NYC Finance Data Engineering](https://github.com/CoreyLeath-code/NYC-Finance-Data-Engineering-Project) | contract-first ETL, reproducible benchmarking, release/supply-chain controls |
+| [PredictiveMaintenance_IoT](https://github.com/CoreyLeath-code/PredictiveMaintenance_IoT) | predictive-maintenance service boundaries and packaged runtime |
+| [Software3-Lab](https://github.com/CoreyLeath-code/Software3-Lab) | .NET domain modeling, xUnit verification, BenchmarkDotNet, GHCR packaging |
+
+---
+
+## Technical focus
+
+### AI & machine learning
+Python • PyTorch • TensorFlow • Hugging Face • CNNs • Transformers • recommendation systems • feature engineering • vector search
+
+### MLOps & AI infrastructure
+MLflow • Docker • Kubernetes • Terraform • GitHub Actions • Prometheus • OpenTelemetry • model/runtime evidence
+
+### Backend & distributed systems
+FastAPI • C#/.NET • Go • C++ • REST • gRPC • Redis • Kafka • event-driven architecture
+
+### Data engineering
+SQL • Pandas • PostgreSQL • Snowflake • ETL • data contracts • reproducible pipelines
+
+### Software engineering
+OOP • SOLID • clean architecture • design patterns • automated testing • static analysis • release engineering
+
+---
+
+## Engineering evidence model
+
+A portfolio claim is strongest when it can point to a reproducible artifact.
+
+| Claim type | Evidence I prefer |
+|---|---|
+| Correctness | deterministic tests, fixtures, CI logs, test artifacts |
+| Performance | benchmark command, warm-up policy, sample count, environment, commit SHA, raw result artifact |
+| ML quality | dataset version, split protocol, seed, metric definition, uncertainty, leakage controls |
+| Runtime behavior | health/readiness checks, logs, metrics, trace context, failure behavior |
+| Packaging | Dockerfile, image tag, digest, GHCR package, checksum |
+| Security | dependency scan, image scan, SBOM, SAST, secret scanning |
+| Release quality | semantic version, changelog, source archive, checksum, immutable package |
+
+### Evidence boundary
+
+I avoid treating the following as equivalent:
+
+- a unit-test pass rate and code coverage
+- a microbenchmark and production throughput
+- synthetic data performance and real-world model quality
+- a Docker image and production authorization
+- a repository diagram and a deployed distributed system
+- a technology listed in an experiment and a verified default runtime dependency
+
+---
+
+## Quick start: evaluating this portfolio
+
+If you are reviewing the portfolio as an engineer or recruiter, a practical path is:
+
+```bash
+# 1. Pick a repository
+# 2. Read README + architecture + limitations
+# 3. Inspect CI/workflows and tests
+# 4. Run the documented clean-checkout command
+# 5. Compare any metric claim with its evidence artifact
+# 6. Inspect the release/package when one is published
+```
+
+Recommended repositories for different review goals:
+
+- **Agent systems:** HelixAgent
+- **AI service design:** TransformerForge
+- **MLOps / monitoring:** SentinelAI
+- **Data engineering:** NYC-Finance-Data-Engineering-Project
+- **Distributed/event-driven systems:** Scalable-Event-Driven-Ride-Sharing-Platform
+- **C#/.NET engineering:** Software3-Lab
+
+---
+
+## Reproducibility standard
+
+For projects with benchmark or ML evidence, I aim to record:
+
+1. exact command
+2. commit SHA or release tag
+3. runtime and dependency versions
+4. dataset/fixture provenance
+5. random seed when applicable
+6. warm-up and measurement policy
+7. sample count / repeat count
+8. machine or CI-runner context
+9. raw machine-readable result
+10. interpretation and limitations
+
+A number without this context is treated as exploratory rather than portfolio-grade evidence.
+
+---
+
+## Research-style benchmark policy
+
+### Research question
+
+A benchmark should answer a narrow engineering question, for example:
+
+> Under a defined runtime and workload, what are the latency, throughput, allocation, or resource characteristics of the specific code path being measured?
+
+### Minimum protocol
+
+| Element | Expected record |
+|---|---|
+| Workload | exact operation being measured |
+| Environment | OS, CPU/runner, runtime, dependency versions |
+| Warm-up | explicit warm-up count or rationale |
+| Samples | iteration/repeat count |
+| Statistics | median/mean plus tail or dispersion where appropriate |
+| Provenance | commit SHA or release tag |
+| Output | machine-readable artifact where practical |
+| Limits | what the benchmark does **not** measure |
+
+### Metrics I treat carefully
+
+- latency: p50 / p95 / p99 when sample size supports them
+- throughput: measured directly when possible; clearly labeled when derived
+- memory/allocation: per operation or process-level, depending on workload
+- correctness: pass/fail is not the same as coverage
+- ML metrics: accuracy/F1/AUC are incomplete without dataset and split context
+- service capacity: requires concurrency, saturation, errors, and resource observations
+
+---
+
+## Release and package philosophy
+
+For repositories that contain a real runnable artifact, I prefer:
+
+```text
+source
+  ↓
+CI / security gates
+  ↓
+semantic version tag
+  ↓
+GitHub Release
+  ├── source artifact
+  └── checksum
+  ↓
+GHCR / package registry
+  └── versioned runtime image
+```
+
+A package badge is useful only when the underlying package actually builds and can be pulled.
+
+---
+
+## Extended reviewer Q&A
+
+**Are all repositories production systems?**  
+No. They range from research and portfolio reference implementations to more complete service/runtime projects. Each repository should state its own evidence boundary.
+
+**Do benchmark numbers prove production capacity?**  
+No. Microbenchmarks characterize specific code paths under controlled conditions. Production capacity requires representative I/O, concurrency, saturation, failure, and resource testing.
+
+**Why publish GitHub Releases and GHCR packages?**  
+A release provides a versioned source snapshot and change history. A GHCR package provides a versioned execution artifact that can be pulled independently of a local build.
+
+**How do you handle unsupported claims?**  
+I prefer narrowing or removing the claim rather than keeping an impressive-sounding statement that the code or evidence cannot reproduce.
+
+**What matters most in an AI portfolio?**  
+Beyond model usage: evaluation discipline, data provenance, failure behavior, reproducibility, observability, security boundaries, and the ability to explain tradeoffs.
+
+**What matters most in distributed-system projects?**  
+Explicit contracts, retries/idempotency, ordering assumptions, backpressure, failure recovery, observability, and real integration tests around external systems.
+
+**What matters most in MLOps projects?**  
+Lineage, reproducible evaluation, promotion policy, immutable artifacts, rollback, monitoring, and clear separation between pipeline orchestration and evidence of model quality.
+
+**What do you optimize for when documenting projects?**  
+Fast reviewer comprehension: what the system does, what it does not do, how to run it, where the important code is, what was measured, and how to reproduce the result.
+
+---
+
+## Engineering roadmap
+
+### Phase 1 — Evidence consistency
+- align README claims with current code and workflows
+- remove stale or duplicated technology claims
+- keep benchmark numbers tied to versioned evidence
+- keep release/package badges connected to real artifacts
+
+### Phase 2 — Integration depth
+- increase live dependency testing where broker/database adapters exist
+- add failure-injection cases for retries, timeouts, and degraded dependencies
+- document idempotency and recovery behavior
+
+### Phase 3 — Evaluation rigor
+- version representative datasets and fixtures
+- publish explicit split/seed protocols for ML projects
+- add uncertainty, calibration, and subgroup analysis where relevant
+- separate engineering benchmarks from model-quality findings
+
+### Phase 4 — Supply-chain maturity
+- expand SBOM and image-signing coverage
+- pin deployable artifacts by digest
+- improve release provenance and reproducible build evidence
+
+### Phase 5 — System-level evidence
+- add representative end-to-end load tests to the projects that need them
+- record saturation/error curves rather than single latency numbers
+- add resource and cost observations where cloud infrastructure is part of the claim
+
+---
+
+## Connect
+
+- **GitHub:** [CoreyLeath-code](https://github.com/CoreyLeath-code)
+- **LinkedIn:** [Corey Leath](https://www.linkedin.com/in/corey-leath)
+
+---
+
+> Build the system. Test the claim. Measure the result. Publish the evidence.
