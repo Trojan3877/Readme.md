@@ -1,0 +1,5 @@
+.git
+.github
+RELEASE_NOTES_*.md
+*.tar.gz
+SHA256SUMS

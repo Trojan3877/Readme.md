@@ -1,0 +1,74 @@
+name: Release Portfolio README
+
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  packages: write
+
+jobs:
+  release:
+    name: Publish v1.0.0 documentation release and GHCR package
+    if: startsWith(github.event.head_commit.message, 'release: v1.0.0')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Verify release boundary
+        run: |
+          git fetch --tags --force
+          if git rev-parse -q --verify "refs/tags/v1.0.0" >/dev/null; then
+            echo "v1.0.0 already exists; refusing to overwrite the release boundary."
+            exit 1
+          fi
+          test -s README.md
+          grep -q '^# 👋 Hi, I' README.md
+
+      - name: Build release artifacts
+        run: |
+          cp README.md PORTFOLIO_README_v1.0.0.md
+          tar -czf portfolio-readme-v1.0.0.tar.gz README.md RELEASE_NOTES_v1.0.0.md Dockerfile
+          sha256sum PORTFOLIO_README_v1.0.0.md portfolio-readme-v1.0.0.tar.gz > SHA256SUMS
+
+      - name: Log in to GHCR
+        uses: docker/login-action@v3
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Build and publish documentation image
+        uses: docker/build-push-action@v6
+        with:
+          context: .
+          push: true
+          tags: |
+            ghcr.io/coreyleath-code/portfolio-readme:1.0.0
+            ghcr.io/coreyleath-code/portfolio-readme:latest
+
+      - name: Smoke-test published image
+        run: |
+          docker pull ghcr.io/coreyleath-code/portfolio-readme:1.0.0
+          docker run --rm ghcr.io/coreyleath-code/portfolio-readme:1.0.0 | grep -q '^# 👋 Hi, I'
+
+      - name: Create immutable tag
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git tag -a v1.0.0 -m "Portfolio README v1.0.0"
+          git push origin v1.0.0
+
+      - name: Publish GitHub Release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh release create v1.0.0 \
+            PORTFOLIO_README_v1.0.0.md \
+            portfolio-readme-v1.0.0.tar.gz \
+            SHA256SUMS \
+            --title "Portfolio README v1.0.0" \
+            --notes-file RELEASE_NOTES_v1.0.0.md
